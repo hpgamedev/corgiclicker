@@ -1,0 +1,36 @@
+h1 {
+	color: #369;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 250%;
+	display: block;
+	text-align: center;
+}
+
+body {
+	margin: 2em;
+}
+
+img {
+	background: #eee;
+	display: block;
+	margin: 0 auto;
+}
+
+p {
+	color: #369;
+	margin-bottom: 0;
+	margin-top: 50px;
+	font-size: 200%;
+	font-family: Arial, Helvetica, sans-serif;
+	display: block;
+	text-align: center;
+}
+
+div {
+	margin: 0 auto;
+	width: 1280px;
+	background: #add8e6;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-radius: 25px;
+}
